@@ -32,6 +32,16 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="AgenceLocation.cpp" />
+		<Unit filename="AgenceLocation.h" />
+		<Unit filename="Client.cpp" />
+		<Unit filename="Client.h" />
+		<Unit filename="Vehicule.cpp" />
+		<Unit filename="Vehicule.h" />
+		<Unit filename="VoitureDeLuxe.cpp" />
+		<Unit filename="VoitureDeLuxe.h" />
+		<Unit filename="VoitureEconomique.cpp" />
+		<Unit filename="VoitureEconomique.h" />
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>
